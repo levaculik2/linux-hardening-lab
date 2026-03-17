@@ -4,12 +4,12 @@ Laboratório de segurança cibernética focado no fortalecimento de servidores L
 
 ## Tecnologias
 
-Ubuntu Server
-Kali Linux
-Nmap
-Hydra
-Fail2ban
-UFW
+- Ubuntu Server
+- Kali Linux
+- Nmap
+- Hydra
+- Fail2ban
+- UFW
 
 ## Objetivos do Laboratório
 
