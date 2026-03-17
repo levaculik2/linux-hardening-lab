@@ -11,6 +11,22 @@ Laboratório de segurança cibernética focado no fortalecimento de servidores L
 - Fail2ban
 - UFW
 
+## Lab Topology
+
+![Network Topology](topology.png)
+
+## Attack Simulation
+
+Hydra brute force attempt against SSH.
+
+![Hydra Attack](imagens/hydra-attack.png)
+
+## Fail2ban Blocking Attacker
+
+Fail2ban automatically blocks attacker IP.
+
+![Fail2ban Ban](imagens/fail2ban-ban.png)
+
 ## Objetivos do Laboratório
 
 Implementar controles de segurança para proteger o serviço SSH e prevenir ataques de força bruta.
