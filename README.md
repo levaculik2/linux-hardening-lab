@@ -15,7 +15,7 @@ Laboratório de segurança cibernética focado no fortalecimento de servidores L
 
 ![Network Topology](topology.png)
 
-## Attack Simulation
+## Simulação de ataque
 
 Hydra brute force attempt against SSH.
 
@@ -26,6 +26,17 @@ Hydra brute force attempt against SSH.
 Fail2ban automatically blocks attacker IP.
 
 ![Fail2ban Ban](imagens/fail2ban-ban.png)
+
+## Laboratório de Segurança Cibernética para Servidores Linux
+
+Laboratório de segurança cibernética focado no reforço da segurança de servidores Linux.
+
+Este projeto demonstra:
+
+- Reforço da segurança SSH
+- Configuração de firewall
+- Simulação de ataque de força bruta
+- Bloqueio automático de atacantes usando Fail2ban
 
 ## Objetivos do Laboratório
 
